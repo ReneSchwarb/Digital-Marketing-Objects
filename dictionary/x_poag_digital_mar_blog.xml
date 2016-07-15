@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="x_poag_digital_mar_digital_object" label="Blog" max_length="40" name="x_poag_digital_mar_blog" type="collection"/>
+</database>

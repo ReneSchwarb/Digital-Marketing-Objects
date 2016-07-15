@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="live_feed=true" label="Digital Object" max_length="40" name="x_poag_digital_mar_digital_object" type="collection">
+        <element label="Body" max_length="2000" name="body" type="html"/>
+        <element display="true" label="Name" max_length="80" name="name" type="string"/>
+        <element default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Teaser" max_length="300" name="teaser" type="string"/>
+        <element label="Title" max_length="150" name="title" type="string"/>
+        <element label="Url" max_length="1024" name="url" type="url"/>
+    </element>
+</database>

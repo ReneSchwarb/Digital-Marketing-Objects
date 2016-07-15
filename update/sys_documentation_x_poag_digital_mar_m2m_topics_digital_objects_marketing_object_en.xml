@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="marketing_object" label="Marketing Object" language="en" table="x_poag_digital_mar_m2m_topics_digital_objects">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>marketing_object</element>
+            <help/>
+            <hint/>
+            <label>Marketing Object</label>
+            <language>en</language>
+            <name>x_poag_digital_mar_m2m_topics_digital_objects</name>
+            <plural>Marketing Objects</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>rene.schwarb@ipt.ch</sys_created_by>
+            <sys_created_on>2016-07-15 15:11:12</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>863f00434f6466002ed2bc511310c706</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Marketing Object</sys_name>
+            <sys_package display_value="Digital Marketing" source="x_poag_digital_mar">7ed904cf4f2466002ed2bc511310c722</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Digital Marketing">7ed904cf4f2466002ed2bc511310c722</sys_scope>
+            <sys_update_name>sys_documentation_x_poag_digital_mar_m2m_topics_digital_objects_marketing_object_en</sys_update_name>
+            <sys_updated_by>rene.schwarb@ipt.ch</sys_updated_by>
+            <sys_updated_on>2016-07-15 15:11:12</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
