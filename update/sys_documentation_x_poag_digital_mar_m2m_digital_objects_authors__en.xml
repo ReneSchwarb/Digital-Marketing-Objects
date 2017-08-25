@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Digital Mar M2m Digital Objects Authors" language="en" table="x_poag_digital_mar_m2m_digital_objects_authors">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Digital Mar M2m Digital Objects Authors</label>
+            <language>en</language>
+            <name>x_poag_digital_mar_m2m_digital_objects_authors</name>
+            <plural>Digital Mar M2m Digital Objects Authors</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-28 11:46:55</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>d42d128f4fb06a002ed2bc511310c78e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Digital Mar M2m Digital Objects Authors</sys_name>
+            <sys_package display_value="Digital Marketing" source="x_poag_digital_mar">7ed904cf4f2466002ed2bc511310c722</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Digital Marketing">7ed904cf4f2466002ed2bc511310c722</sys_scope>
+            <sys_update_name>sys_documentation_x_poag_digital_mar_m2m_digital_objects_authors__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-28 11:46:55</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

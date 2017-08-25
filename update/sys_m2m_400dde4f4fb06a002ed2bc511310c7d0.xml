@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_m2m">
+    <sys_m2m action="INSERT_OR_UPDATE">
+        <from_table>x_poag_digital_mar_author</from_table>
+        <m2m_from_field>author</m2m_from_field>
+        <m2m_from_label>Digital Objects</m2m_from_label>
+        <m2m_table>x_poag_digital_mar_m2m_digital_objects_authors</m2m_table>
+        <m2m_to_field>digital_object</m2m_to_field>
+        <m2m_to_label>Authors</m2m_to_label>
+        <sys_class_name>sys_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-07-28 11:46:55</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>400dde4f4fb06a002ed2bc511310c7d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_poag_digital_mar_m2m_digital_objects_authors</sys_name>
+        <sys_package display_value="Digital Marketing" source="x_poag_digital_mar">7ed904cf4f2466002ed2bc511310c722</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Digital Marketing">7ed904cf4f2466002ed2bc511310c722</sys_scope>
+        <sys_update_name>sys_m2m_400dde4f4fb06a002ed2bc511310c7d0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-07-28 11:46:55</sys_updated_on>
+        <to_table>x_poag_digital_mar_digital_object</to_table>
+    </sys_m2m>
+</record_update>

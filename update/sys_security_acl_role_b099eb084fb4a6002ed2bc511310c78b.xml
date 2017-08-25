@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>rene.schwarb@ipt.ch</sys_created_by>
+        <sys_created_on>2016-07-19 09:39:08</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b099eb084fb4a6002ed2bc511310c78b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_poag_digital_mar_m2m_topics_digital_objects.x_poag_digital_mar_m2m_topics_digital_objects_user</sys_name>
+        <sys_package display_value="Digital Marketing" source="x_poag_digital_mar">7ed904cf4f2466002ed2bc511310c722</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Digital Marketing">7ed904cf4f2466002ed2bc511310c722</sys_scope>
+        <sys_security_acl display_value="x_poag_digital_mar_m2m_topics_digital_objects">7499eb084fb4a6002ed2bc511310c78a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b099eb084fb4a6002ed2bc511310c78b</sys_update_name>
+        <sys_updated_by>rene.schwarb@ipt.ch</sys_updated_by>
+        <sys_updated_on>2016-07-19 09:39:08</sys_updated_on>
+        <sys_user_role display_value="x_poag_digital_mar_m2m_topics_digital_objects_user" name="x_poag_digital_mar_m2m_topics_digital_objects_user">489927084fb4a6002ed2bc511310c7b3</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

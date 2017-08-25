@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Digital Mar M2m Digital Objects Authors" max_length="40" name="x_poag_digital_mar_m2m_digital_objects_authors" type="collection">
+        <element label="Author" max_length="32" name="author" reference="x_poag_digital_mar_author" type="reference"/>
+        <element label="Digital Object" max_length="32" name="digital_object" reference="x_poag_digital_mar_digital_object" type="reference"/>
+        <index name="index">
+            <element name="author"/>
+        </index>
+        <index name="index2">
+            <element name="digital_object"/>
+        </index>
+    </element>
+</database>

@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>rene.schwarb@ipt.ch</sys_created_by>
         <sys_created_on>2016-07-15 14:49:01</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>c12a84cf4f2466002ed2bc511310c75d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_poag_digital_mar_topic.x_poag_digital_mar_topic_user</sys_name>

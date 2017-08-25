@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="2c6d54474f6466002ed2bc511310c7fc" sys_domain="global" table="x_poag_digital_mar_blog" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>rene.schwarb@ipt.ch</sys_created_by>
+            <sys_created_on>2016-07-15 16:13:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>606d54474f6466002ed2bc511310c7fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_poag_digital_mar_blog" name="x_poag_digital_mar_blog" sys_domain="global" view="Default view">2c6d54474f6466002ed2bc511310c7fc</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_poag_digital_mar_blog" sys_domain="global" view="Default view">919c18074f6466002ed2bc511310c71c</sys_ui_section>
+            <sys_updated_by>rene.schwarb@ipt.ch</sys_updated_by>
+            <sys_updated_on>2016-07-15 16:13:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>rene.schwarb@ipt.ch</sys_created_by>
+            <sys_created_on>2016-07-15 16:13:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>e06d54474f6466002ed2bc511310c7fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_poag_digital_mar_blog" name="x_poag_digital_mar_blog" sys_domain="global" view="Default view">2c6d54474f6466002ed2bc511310c7fc</sys_ui_form>
+            <sys_ui_section caption="Content" display_value="Content" name="x_poag_digital_mar_blog" sys_domain="global" view="Default view">e46d54474f6466002ed2bc511310c7fc</sys_ui_section>
+            <sys_updated_by>rene.schwarb@ipt.ch</sys_updated_by>
+            <sys_updated_on>2016-07-15 16:13:06</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_poag_digital_mar_blog</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>rene.schwarb@ipt.ch</sys_created_by>
+            <sys_created_on>2016-07-15 16:13:06</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>2c6d54474f6466002ed2bc511310c7fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_poag_digital_mar_blog</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Digital Marketing" source="x_poag_digital_mar">7ed904cf4f2466002ed2bc511310c722</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Digital Marketing">7ed904cf4f2466002ed2bc511310c722</sys_scope>
+            <sys_update_name>sys_ui_form_sections_2c6d54474f6466002ed2bc511310c7fc</sys_update_name>
+            <sys_updated_by>rene.schwarb@ipt.ch</sys_updated_by>
+            <sys_updated_on>2016-07-15 16:13:06</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

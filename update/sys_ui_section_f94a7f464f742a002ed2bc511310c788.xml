@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="f94a7f464f742a002ed2bc511310c788" sys_domain="global" table="x_poag_digital_mar_digital_object" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-25 15:59:57</sys_created_on>
+            <sys_id>794a7f464f742a002ed2bc511310c78b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_poag_digital_mar_digital_object" sys_domain="global" view="Default view">f94a7f464f742a002ed2bc511310c788</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-25 15:59:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-25 15:59:58</sys_created_on>
+            <sys_id>f94a7f464f742a002ed2bc511310c78b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_poag_digital_mar_digital_object" sys_domain="global" view="Default view">f94a7f464f742a002ed2bc511310c788</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-25 15:59:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>body</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-25 15:59:58</sys_created_on>
+            <sys_id>7d4a7f464f742a002ed2bc511310c78b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_poag_digital_mar_digital_object" sys_domain="global" view="Default view">f94a7f464f742a002ed2bc511310c788</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-25 15:59:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>teaser</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-25 15:59:58</sys_created_on>
+            <sys_id>fd4a7f464f742a002ed2bc511310c78b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_poag_digital_mar_digital_object" sys_domain="global" view="Default view">f94a7f464f742a002ed2bc511310c788</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-25 15:59:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>title</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-25 15:59:58</sys_created_on>
+            <sys_id>714a7f464f742a002ed2bc511310c78c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_poag_digital_mar_digital_object" sys_domain="global" view="Default view">f94a7f464f742a002ed2bc511310c788</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-25 15:59:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>url</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-25 15:59:58</sys_created_on>
+            <sys_id>f14a7f464f742a002ed2bc511310c78c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_poag_digital_mar_digital_object" sys_domain="global" view="Default view">f94a7f464f742a002ed2bc511310c788</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-25 15:59:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>publish_date</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-25 15:59:58</sys_created_on>
+            <sys_id>754a7f464f742a002ed2bc511310c78c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_poag_digital_mar_digital_object" sys_domain="global" view="Default view">f94a7f464f742a002ed2bc511310c788</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-25 15:59:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>picture_url</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-27 12:39:20</sys_created_on>
+            <sys_id>228f9d724ff82a0089fddf601310c781</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_poag_digital_mar_digital_object" sys_domain="global" view="Default view">f94a7f464f742a002ed2bc511310c788</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-27 12:39:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_poag_digital_mar_digital_object</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-25 15:59:57</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>f94a7f464f742a002ed2bc511310c788</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_poag_digital_mar_digital_object</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Digital Marketing" source="x_poag_digital_mar">7ed904cf4f2466002ed2bc511310c722</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Digital Marketing">7ed904cf4f2466002ed2bc511310c722</sys_scope>
+            <sys_update_name>sys_ui_section_f94a7f464f742a002ed2bc511310c788</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-25 15:59:57</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

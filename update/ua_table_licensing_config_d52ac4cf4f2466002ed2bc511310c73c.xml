@@ -9,7 +9,7 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>rene.schwarb@ipt.ch</sys_created_by>
         <sys_created_on>2016-07-15 14:49:01</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>d52ac4cf4f2466002ed2bc511310c73c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_poag_digital_mar_topic</sys_name>

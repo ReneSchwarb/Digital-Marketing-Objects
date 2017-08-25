@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_blogdate" label="BlogDate" language="en" table="x_poag_digital_mar_import">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_blogdate</element>
+            <help/>
+            <hint/>
+            <label>BlogDate</label>
+            <language>en</language>
+            <name>x_poag_digital_mar_import</name>
+            <plural>BlogDates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>rene.schwarb@ipt.ch</sys_created_by>
+            <sys_created_on>2016-07-15 15:52:34</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>44b8d0c34f6466002ed2bc511310c75c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>BlogDate</sys_name>
+            <sys_package display_value="Digital Marketing" source="x_poag_digital_mar">7ed904cf4f2466002ed2bc511310c722</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Digital Marketing">7ed904cf4f2466002ed2bc511310c722</sys_scope>
+            <sys_update_name>sys_documentation_x_poag_digital_mar_import_u_blogdate_en</sys_update_name>
+            <sys_updated_by>rene.schwarb@ipt.ch</sys_updated_by>
+            <sys_updated_on>2016-07-15 15:52:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

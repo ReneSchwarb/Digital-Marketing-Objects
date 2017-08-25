@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Import ipt Authoren" max_length="40" name="x_poag_digital_mar_import_ipt_authoren" type="collection">
+        <element attributes="import_attribute_name=BlogAuthor,edge_encryption_enabled=true" label="BlogAuthor" max_length="40" name="u_blogauthor" type="string"/>
+        <element attributes="import_attribute_name=BlogLinkToAuthor,edge_encryption_enabled=true" label="BlogLinkToAuthor" max_length="40" name="u_bloglinktoauthor" type="string"/>
+        <element attributes="import_attribute_name=BlogURL,edge_encryption_enabled=true" label="BlogURL" max_length="131" name="u_blogurl" type="string"/>
+    </element>
+</database>

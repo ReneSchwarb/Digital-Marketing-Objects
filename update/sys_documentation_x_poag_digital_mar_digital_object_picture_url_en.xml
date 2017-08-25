@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="picture_url" label="Picture URL" language="en" table="x_poag_digital_mar_digital_object">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>picture_url</element>
+            <help/>
+            <hint/>
+            <label>Picture URL</label>
+            <language>en</language>
+            <name>x_poag_digital_mar_digital_object</name>
+            <plural>Picture URLs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-27 12:39:21</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>ba8f9d724ff82a0089fddf601310c781</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Picture URL</sys_name>
+            <sys_package display_value="Digital Marketing" source="x_poag_digital_mar">7ed904cf4f2466002ed2bc511310c722</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Digital Marketing">7ed904cf4f2466002ed2bc511310c722</sys_scope>
+            <sys_update_name>sys_documentation_x_poag_digital_mar_digital_object_picture_url_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-27 12:39:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

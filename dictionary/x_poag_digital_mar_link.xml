@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Link" max_length="40" name="x_poag_digital_mar_link" type="collection">
+        <element label="From Object" max_length="32" name="from_object" reference="x_poag_digital_mar_digital_object" type="reference"/>
+        <element label="Relevance" max_length="1" name="relevance" type="integer"/>
+        <element label="Text" max_length="200" name="text" type="string"/>
+        <element label="To Object" max_length="32" name="to_object" reference="x_poag_digital_mar_digital_object" type="reference"/>
+        <element display="true" label="Url" max_length="1024" name="url" type="url"/>
+        <index name="index">
+            <element name="from_object"/>
+        </index>
+        <index name="index2">
+            <element name="to_object"/>
+        </index>
+    </element>
+</database>

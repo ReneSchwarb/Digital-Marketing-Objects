@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="import ipt log Themen1" max_length="40" name="x_poag_digital_mar_import_ipt_log_themen1" sizeclass="5970" type="collection">
+        <element attributes="import_attribute_name=BlogLinkToTheme,edge_encryption_enabled=true" label="BlogLinkToTheme" max_length="294" name="u_bloglinktotheme" type="string"/>
+        <element attributes="import_attribute_name=BlogTheme,edge_encryption_enabled=true" label="BlogTheme" max_length="40" name="u_blogtheme" type="string"/>
+        <element attributes="import_attribute_name=BlogURL,edge_encryption_enabled=true" label="BlogURL" max_length="131" name="u_blogurl" type="string"/>
+    </element>
+</database>

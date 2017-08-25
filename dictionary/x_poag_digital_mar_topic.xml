@@ -2,5 +2,10 @@
 <database>
     <element label="Topic" max_length="40" name="x_poag_digital_mar_topic" type="collection">
         <element display="true" label="Name" max_length="80" name="name" type="string"/>
+        <element label="Toplevel" max_length="40" name="toplevel" type="boolean"/>
+        <element label="Trend" max_length="40" name="trend" type="boolean"/>
+        <index name="index">
+            <element name="name"/>
+        </index>
     </element>
 </database>

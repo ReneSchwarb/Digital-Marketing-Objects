@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_poag_digital_mar_theme_to_blog" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_row</element>
+            <list_id display_value="x_poag_digital_mar_theme_to_blog" element="NULL" name="x_poag_digital_mar_theme_to_blog" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">640797714f702a002ed2bc511310c748</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-24 18:47:23</sys_created_on>
+            <sys_id>280797714f702a002ed2bc511310c748</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-24 18:47:23</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_set</element>
+            <list_id display_value="x_poag_digital_mar_theme_to_blog" element="NULL" name="x_poag_digital_mar_theme_to_blog" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">640797714f702a002ed2bc511310c748</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-24 18:47:23</sys_created_on>
+            <sys_id>a80797714f702a002ed2bc511310c748</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-24 18:47:23</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_state</element>
+            <list_id display_value="x_poag_digital_mar_theme_to_blog" element="NULL" name="x_poag_digital_mar_theme_to_blog" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">640797714f702a002ed2bc511310c748</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-24 18:47:23</sys_created_on>
+            <sys_id>2c0797714f702a002ed2bc511310c748</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-24 18:47:23</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_blogurl</element>
+            <list_id display_value="x_poag_digital_mar_theme_to_blog" element="NULL" name="x_poag_digital_mar_theme_to_blog" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">640797714f702a002ed2bc511310c748</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-24 18:47:23</sys_created_on>
+            <sys_id>ac0797714f702a002ed2bc511310c748</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-24 18:47:23</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_blogtheme</element>
+            <list_id display_value="x_poag_digital_mar_theme_to_blog" element="NULL" name="x_poag_digital_mar_theme_to_blog" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">640797714f702a002ed2bc511310c748</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-24 18:47:23</sys_created_on>
+            <sys_id>200797714f702a002ed2bc511310c749</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-24 18:47:23</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_bloglinktotheme</element>
+            <list_id display_value="x_poag_digital_mar_theme_to_blog" element="NULL" name="x_poag_digital_mar_theme_to_blog" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">640797714f702a002ed2bc511310c748</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-24 18:47:23</sys_created_on>
+            <sys_id>a00797714f702a002ed2bc511310c749</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-24 18:47:23</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_table</element>
+            <list_id display_value="x_poag_digital_mar_theme_to_blog" element="NULL" name="x_poag_digital_mar_theme_to_blog" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">640797714f702a002ed2bc511310c748</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-24 18:47:23</sys_created_on>
+            <sys_id>240797714f702a002ed2bc511310c749</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-24 18:47:23</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_sys_id</element>
+            <list_id display_value="x_poag_digital_mar_theme_to_blog" element="NULL" name="x_poag_digital_mar_theme_to_blog" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">640797714f702a002ed2bc511310c748</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-24 18:47:23</sys_created_on>
+            <sys_id>a40797714f702a002ed2bc511310c749</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-24 18:47:23</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_row_error</element>
+            <list_id display_value="x_poag_digital_mar_theme_to_blog" element="NULL" name="x_poag_digital_mar_theme_to_blog" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">640797714f702a002ed2bc511310c748</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-24 18:47:23</sys_created_on>
+            <sys_id>280797714f702a002ed2bc511310c749</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-24 18:47:23</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_poag_digital_mar_theme_to_blog</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-24 18:47:23</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>640797714f702a002ed2bc511310c748</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_poag_digital_mar_theme_to_blog</sys_name>
+            <sys_package display_value="Digital Marketing" source="x_poag_digital_mar">7ed904cf4f2466002ed2bc511310c722</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Digital Marketing">7ed904cf4f2466002ed2bc511310c722</sys_scope>
+            <sys_update_name>sys_ui_list_x_poag_digital_mar_theme_to_blog_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-24 18:47:23</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
